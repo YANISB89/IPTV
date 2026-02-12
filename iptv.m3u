@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="UNORGANIZED" ,QANAT9
-https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:0 group-title="UNORGANIZED" ,BADEN TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:0 group-title="UNORGANIZED" ,EBS1
