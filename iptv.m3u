@@ -1,144 +1,110 @@
 #EXTM3U
-#EXTINF:0 group-title="UNORGANIZED" ,BADEN TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:0 group-title="UNORGANIZED" ,EBS1
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
-#EXTINF:0 group-title="UNORGANIZED" ,GAME+
-https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
-#EXTINF:0 group-title="UNORGANIZED" ,EURO D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
-#EXTINF:0 group-title="UNORGANIZED" ,GO2TRAVEL
-https://go2thls.wns.live/hls/stream.m3u8
-#EXTINF:0 group-title="UNORGANIZED" ,HSE
-https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
-#EXTINF:0 group-title="UNORGANIZED" ,MBC1
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
-#EXTINF:0 group-title="UNORGANIZED" ,RMC LIFE
-https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
-#EXTINF:0 group-title="UNORGANIZED" ,TINY POP
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 group-title="NEWS" ,3CAT INFO
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" ,5 MINUTE CRAFT
+https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,ABC NEWS AUSTRALIA
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ADDIS TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" ,ADN
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" ,ADVENTURE EARTH
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,AFGHANISTAN INTERNATIONAL
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" ,AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" ,AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ARABIC" ,AJMAN
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,AKC TV
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,AL 24 NEWS
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,AL ARABIYA AL HADATH
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+#EXTINF:-1 group-title="NEWS" ,AL ARABIYA BUSINESS
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,AL EKHBARIYA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 group-title="ARABIC" ,AL GHAD
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:-1 group-title="NEWS" ,AL JAZEERA
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" ,AL JAZEERA DOCUMENTARY
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:-1 group-title="ARABIC" ,AL RAYAN
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ARABIC" ,AL RAYAN AQADEEM
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 group-title="NEWS" ,AL WOUSTA
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,ALARABY
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,ALARABY 2
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" ,ALLO CINÉ
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" ,ALLO CINÉ
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 #EXTINF:-1 group-title="ARABIC" ,AMMAN TV
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 group-title="ARABIC" ,BAHRAIN INTERNATIONAL
-https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-#EXTINF:-1 group-title="ARABIC" ,BAHRAIN TV
-https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-#EXTINF:-1 group-title="ARABIC" ,FUJAIRA TV
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARABIC" ,JORDAN TV
-https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
-#EXTINF:0 group-title="ARABIC" ,KTV ARABI
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ARABIC" ,KUWAIT TV
-https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
-#EXTINF:-1 group-title="ARABIC" ,OMAN TV
-https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ARABIC" ,QATAR TV
-https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARABIC" ,SAUDI TV
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:0 group-title="ARABIC" ,SUDAN
-https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
-#EXTINF:0 group-title="ARABIC" ,SYRIA
-https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,ADVENTURE EARTH
-https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,AL JAZEERA DOCUMENTARY
-https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" ,ANIMALS 4K
 http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
+#EXTINF:-1 group-title="ENTERTAINMENT" ,ANTENA 1
+https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
+#EXTINF:-1 group-title="NEWS" ,ARD 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ARD DAS ERSTE
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ARTE
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" ,ASHARQ DISCOVERY
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" ,ASHARQ DOCUMENTARY
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,BADEN TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 group-title="ARABIC" ,BAHRAIN INTERNATIONAL
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC" ,BAHRAIN TV
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" ,BBC EARTH
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,CAP TERRE
-https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,CGTN DOCUMENTARY
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,DESTINATION NATURE
-https://d2cl8wi5f8zf1j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ay35jkybhd8m/DestinationNature_FR.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,INTRAVEL
-https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,INWILD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,INWONDER
-https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,LES SECRETS DE NOS RÉGIONS
-https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,NATURE TIME
-https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,REAL WILD
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,RMC DÉCOUVERTE
-https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,TERRA MATER WILD
-https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" ,TRAVELXP
-https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="DOCUMENTARY" ,XPLORE
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,5 MINUTE CRAFT
-https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,AFV
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,ALLO CINÉ
-https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,ANTENA 1
-https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,CANAL SAVOIR
-https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,CARAC 2
-https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,CARAC 3
-https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,CARAC 4
-https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,CHARGE
-https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,ENQUÊTE DE CHOC
-https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,FAIL ARMY
-https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,GENERATION SITCOM
-https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,GONG
-https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,Les Z'Amours
-https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,Motus La Chaîne
-https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,MR BEAN ANIME
-https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,PRO7
-https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,Qui Veut Gagner Des Millions La Chaîne
-https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,SIXX
-https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,Televisa Telenovela Channel
-https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,AFV
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,ALLO CINÉ
-https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,ANTENA 1
-https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
+#EXTINF:-1 group-title="NEWS" ,BBC NEWS
+https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,BEL RTL
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,BERGCLICK FREE
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5ad84e6a-299b-11ec-b414-948e0b8da07d/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 group-title="NEWS" ,BFM BUSINESS
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="NEWS" ,BFM GRAND REPORTAGES
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="NEWS" ,BFMTV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,BR
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 group-title="KIDS" ,CAILLOU
+https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,CANAL ALPHA JURA
+https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,CANAL EXTREMADURA
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,CANAL MÁLAGA
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,CANAL SAVOIR
 https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,CANAL SUR
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" ,CAP TERRE
+https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,CARAC 1
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,CARAC 2
@@ -147,26 +113,138 @@ https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,CARAC 4
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" ,CGTN DOCUMENTARY
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:-1 group-title="NEWS" ,CGTN FRANÇAIS
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,CHARGE
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 group-title="NEWS" ,CNBC ARABIYA
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 group-title="NEWS" ,CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 group-title="NEWS" ,CNN INTERNATIONAL
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="SPORTS" ,DAZN COMBAT
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" ,DESTINATION NATURE
+https://d2cl8wi5f8zf1j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ay35jkybhd8m/DestinationNature_FR.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,DRIVE TV
 https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+#EXTINF:0 group-title="UNORGANIZED" ,ECHO DU MONDE
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99994449&ads.xumo_streamId=99994449&ads.channelId=99994449&ads.ad_tag_id=140647&ads.csid=lgchannels_fr_echosdumonde_ssai&ads.channelName=indigeniusechosdumonde_fr&ads.xumo_contentName=IndigeniusFrance&ads.xumo_contentId=4231&ads.xumo_providerName=IndigeniusFrance&ads.xumo_providerId=4231&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=fr&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,EL 33
+https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,ENQUÊTE DE CHOC
 https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ERITV
+https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,EURONEWS
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,FAIL ARMY
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" ,FIFA+
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Binge Watch France
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
+#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise DeGrassi la nouvelle génération
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883113
+#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Hot Ones
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082
+#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Les Routes du Paradis
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083
+#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Séries France
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
+#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Séries France
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
+#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Z Nation France
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
+#EXTINF:-1 group-title="NEWS" ,FOX NEWS NOW
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="NEWS" ,FOX WEATHER
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 group-title="NEWS" ,FRANCE 24 ARABIC
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,FRANCE 24 ENGLISH
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="NEWS" ,FRANCE 24 ESPAÑOL
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="NEWS" ,FRANCE 24 FRANÇAIS
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="ARABIC" ,FUJAIRA TV
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,GAME+
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,GENERATION SITCOM
 https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8
+#EXTINF:-1 group-title="NEWS" ,GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 group-title="NEWS" ,GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,GONG
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,GUSTO TV
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,HSE
+https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
+#EXTINF:-1 group-title="SHOPPING" ,HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,ICE ROAD TRUCKER
 https://3787c49a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9JY2VSb2FkVHJ1Y2tlcnNfSExT/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ICI MONTREAL
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,INA 70
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_256.m3u8
+#EXTINF:-1 group-title="NEWS" ,INDIA TODAY
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,INDIA TODAY
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,INITIATION AU VOYAGE
+https://jmp2.uk/stvp-FR3700004HZ
+#EXTINF:-1 group-title="DOCUMENTARY" ,INTRAVEL
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" ,INWILD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" ,INWONDER
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ION+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,IVORY CHANNEL
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC" ,JORDAN TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="KanalD.tr@SD" ,Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="KanalDDrama.tr@SD" ,Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" ,KIKA
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:0 group-title="ARABIC" ,KTV ARABI
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" ,KTV SPORT
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:0 group-title="SPORTS" ,KTV SPORT
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARABIC" ,KUWAIT TV
+https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,L'EQUIPE
+https://jmp2.uk/stvp-FR200016Y5
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,LA 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,LA 7
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+#EXTINF:0 group-title="KIDS" ,LEGO CHANNEL
+https://jmp2.uk/stvp-GBBC4300005AL
+#EXTINF:-1 group-title="DOCUMENTARY" ,LES SECRETS DE NOS RÉGIONS
+https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,Les Z'Amours
 https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" ,Love Pets
@@ -177,152 +255,62 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39c
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT" ,MBC+ DRAMA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,MBC1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT" ,MBC3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT" ,MBC4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT" ,MBC5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,Motus La Chaîne
-https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,MR BEAN ANIME
-https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,PRO7
-https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,Qui Veut Gagner Des Millions La Chaîne
-https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT" ,SBC
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="SIC.pt@SD" ,SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,SIXX
-https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Tastemade.us@UK" ,Tastemade
-https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" ,Televisa Telenovela Channel
-https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="EmotionL.fr@SD" ,Zylo Emotion' L
-https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="FrequenceNovelas.fr@SD" ,Zylo Fréquence Novelas
-https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ADDIS TV
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,AFGHANISTAN INTERNATIONAL
-https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,AKC TV
-https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ARD DAS ERSTE
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ARIRANG
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ARTE
-https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ARTE
-https://d3223vg0o80ccf.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xn2vfltkhli08/907151eb-8b61-4c1f-82e7-89f1ab0a2721/0.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,BEL RTL
-https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,BR
-https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,CANAL ALPHA JURA
-https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,CANAL EXTREMADURA
-https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,CANAL MÁLAGA
-http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,CANAL SUR
-https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,EL 33
-https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ERITV
-https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ETB 1
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ETB 2
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ICI MONTREAL
-https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,INA 70
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_256.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,ION+
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,IVORY CHANNEL
-https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,LA 1
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,LA 7
-https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,MOLDOVA 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,MOLDOVA 2
 https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
+#EXTINF:-1 group-title="SPORTS" ,MOTORVISION
+https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" ,Motus La Chaîne
+https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" ,MR BEAN ANIME
+https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,MTRSP1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" ,Mytime Movies
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" ,NATURE TIME
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,NBC NEWS NOW
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:0 group-title="GENERAL/INTERNATIONAL" ,NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:0 group-title="NEWS" ,NDTV
+https://live.ntdtv.com/live900/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC" ,OMAN TV
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KIDS" ,PBS KIDS
+http://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,PRESS TV
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 group-title="NEWS" ,PRESS TV
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 group-title="NEWS" ,PRESS TV ESPAÑOL (HISPAN TV)
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" ,PRO7
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" ,PRO7
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC" ,QATAR TV
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" ,Qui Veut Gagner Des Millions La Chaîne
+https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8
+#EXTINF:0 group-title="SHOPPING" ,QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,RAI 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,RAI 2
 https://ilglobotv-live.akamaized.net/channels/RAI2/events(1000)/RAI2-video=3499968.m3u8
 #EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,RAI 3
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,RTL DE
-https://ma.anixa.tv/clips/stream/rtl/index.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,RUSSIA1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,TRT1
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" tvg-id="TVPPolonia.pl@SD" ,TVP Polonia
-https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" tvg-id="TVP1.pl@SD" ,TVP1
-https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
-#EXTINF:0 group-title="GENERAL/INTERNATIONAL" ,VOSGES
-https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" ,CAILLOU
-https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
-#EXTINF:-1 group-title="KIDS" ,KIKA
-https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
-#EXTINF:0 group-title="KIDS" ,LEGO CHANNEL
-https://jmp2.uk/stvp-GBBC4300005AL
-#EXTINF:-1 group-title="KIDS" ,PBS KIDS
-http://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:0 group-title="KIDS" ,SPACETOON
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-#EXTINF:-1 group-title="KIDS" ,TIVI5 MONDE
-https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
-#EXTINF:-1 group-title="KIDS" ,TOM AND JERRY
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:0 group-title="KIDS" ,TOON GOOGIES
-https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Binge Watch France
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
-#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise DeGrassi la nouvelle génération
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883113
-#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Hot Ones
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082
-#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Les Routes du Paradis
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083
-#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Séries France
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
-#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Z Nation France
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
-#EXTINF:-1 group-title="MOVIES & SERIES" ,Mytime Movies
-https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES & SERIES" ,ADN
-https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Binge Watch France
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
-#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise DeGrassi la nouvelle génération
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883113
-#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Hot Ones
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082
-#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Les Routes du Paradis
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083
-#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Séries France
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
-#EXTINF:-1 group-title="MOVIES & SERIES" ,FilmRise Z Nation France
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
-#EXTINF:-1 group-title="MOVIES & SERIES" ,Mytime Movies
-https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" ,Rakuten TV Films Action
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" ,Rakuten TV Films Comédie
@@ -339,193 +327,101 @@ https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" ,Rakuten TV Top Films France
 https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
+#EXTINF:-1 group-title="NEWS" ,RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8
+#EXTINF:-1 group-title="SPORTS" ,REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" ,REAL WILD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,RMC ALERT SECOURS
+https://jmp2.uk/stvp-FR30000271
+#EXTINF:-1 group-title="DOCUMENTARY" ,RMC DÉCOUVERTE
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,RMC LIFE
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,RMC WOW
+https://jmp2.uk/stvp-FR300001M1
+#EXTINF:-1 group-title="NEWS" ,RT ARABIC
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,RTL DE
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,RUSSIA1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ARABIC" ,SAUDI TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT" ,SBC
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="SIC.pt@SD" ,SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" ,SIXX
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,SKY NEWS ARABIA
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,SONY ONE ACTION HITS
+https://jmp2.uk/stvp-FR3000139Z
+#EXTINF:0 group-title="KIDS" ,SPACETOON
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:-1 group-title="SPORTS" ,STRONGMAN
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="Strongman.us@UK" ,Strongman
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="ARABIC" ,SUDAN
+https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,SUPERTOON
+https://jmp2.uk/stvp-FRBD5100002NL
+#EXTINF:0 group-title="ARABIC" ,SYRIA
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Tastemade.us@UK" ,Tastemade
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" ,Televisa Telenovela Channel
+https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" ,TENIS CHANNEL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" ,TERRA MATER WILD
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,TINY POP
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" ,TIVI5 MONDE
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+#EXTINF:-1 group-title="KIDS" ,TOM AND JERRY
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:0 group-title="KIDS" ,TOON GOOGIES
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" ,TRAVELXP
+https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="NEWS" ,TRT ARABIYA
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" ,TRT1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:0 group-title="UNORGANIZED" ,TV5 MONDE VOYAGE
+https://jmp2.uk/stvp-FR1800004EP
+#EXTINF:-1 group-title="NEWS" ,TVP Info
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-id="TVPInfo.pl@SD" ,TVP Info
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" tvg-id="TVPPolonia.pl@SD" ,TVP Polonia
+https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-id="TVPWorld.pl@SD" ,TVP World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL/INTERNATIONAL" tvg-id="TVP1.pl@SD" ,TVP1
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+#EXTINF:0 group-title="GENERAL/INTERNATIONAL" ,VOSGES
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,WELT
+https://s6.hopslan.com/n24X/index.m3u8
+#EXTINF:-1 group-title="NEWS" ,WELT
+https://s6.hopslan.com/n24X/index.m3u8
+#EXTINF:0 group-title="DOCUMENTARY" ,XPLORE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-id="CineNanar.fr@SD" ,Zylo Ciné Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-id="CineWestern.fr@SD" ,Zylo Ciné Western
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="EmotionL.fr@SD" ,Zylo Emotion' L
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="FrequenceNovelas.fr@SD" ,Zylo Fréquence Novelas
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-id="IntoCrime.fr@SD" ,Zylo Into Crime (1080p)
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-id="ScreamIN.fr@SD" ,Zylo ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,3CAT INFO
-https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/index.m3u8
-#EXTINF:-1 group-title="NEWS" ,24H
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 group-title="NEWS" ,ABC NEWS AUSTRALIA
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
-#EXTINF:-1 group-title="NEWS" ,AL 24 NEWS
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,AL ARABIYA AL HADATH
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
-#EXTINF:-1 group-title="NEWS" ,AL ARABIYA BUSINESS
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,AL EKHBARIYA
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-#EXTINF:-1 group-title="NEWS" ,AL JAZEERA
-https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="NEWS" ,AL WOUSTA
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,ALARABY
-https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,ALARABY 2
-https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,ARD 24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 group-title="NEWS" ,BFM BUSINESS
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="NEWS" ,BFM GRAND REPORTAGES
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="NEWS" ,BFMTV
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 group-title="NEWS" ,CNBC ARABIYA
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 group-title="NEWS" ,CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 group-title="NEWS" ,CNN INTERNATIONAL
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="NEWS" ,FRANCE 24 ARABIC
-https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,FRANCE 24 ENGLISH
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="NEWS" ,FRANCE 24 ESPAÑOL
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="NEWS" ,FRANCE 24 FRANÇAIS
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="NEWS" ,GLOBAL NEWS
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-#EXTINF:-1 group-title="NEWS" ,INDIA TODAY
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,NBC NEWS NOW
-https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-#EXTINF:-1 group-title="NEWS" ,PRESS TV
-https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:-1 group-title="NEWS" ,PRESS TV ESPAÑOL (HISPAN TV)
-https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:-1 group-title="NEWS" ,RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8
-#EXTINF:-1 group-title="NEWS" ,RT ARABIC
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,SKY NEWS ARABIA
-https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
-#EXTINF:-1 group-title="NEWS" ,TVP Info
-https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,TVP World
-https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,WELT
-https://s6.hopslan.com/n24X/index.m3u8
-#EXTINF:-1 group-title="NEWS" ,AL 24 NEWS
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,AL ARABIYA AL HADATH
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
-#EXTINF:-1 group-title="NEWS" ,AL ARABIYA BUSINESS
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,AL EKHBARIYA
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-#EXTINF:-1 group-title="NEWS" ,AL JAZEERA
-https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="NEWS" ,AL WOUSTA
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,ALARABY
-https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,ALARABY 2
-https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,ARD 24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 group-title="NEWS" ,BBC NEWS
-https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 group-title="NEWS" ,BFM BUSINESS
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="NEWS" ,BFM GRAND REPORTAGES
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="NEWS" ,BFMTV
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 group-title="NEWS" ,CGTN FRANÇAIS
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,CNBC ARABIYA
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 group-title="NEWS" ,CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 group-title="NEWS" ,CNN INTERNATIONAL
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="NEWS" ,EURONEWS
-https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,FOX NEWS NOW
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="NEWS" ,FOX WEATHER
-https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 group-title="NEWS" ,FRANCE 24 ARABIC
-https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,FRANCE 24 ENGLISH
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="NEWS" ,FRANCE 24 ESPAÑOL
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="NEWS" ,FRANCE 24 FRANÇAIS
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="NEWS" ,GLOBAL NEWS
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-#EXTINF:-1 group-title="NEWS" ,INDIA TODAY
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,NBC NEWS NOW
-https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-#EXTINF:0 group-title="NEWS" ,NDTV
-https://live.ntdtv.com/live900/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,PRESS TV
-https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:-1 group-title="NEWS" ,PRESS TV ESPAÑOL (HISPAN TV)
-https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:-1 group-title="NEWS" ,RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8
-#EXTINF:0 group-title="NEWS" ,RT ARABIC
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,SKY NEWS ARABIA
-https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
-#EXTINF:0 group-title="NEWS" ,TRT ARABIYA
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-id="TVPInfo.pl@SD" ,TVP Info
-https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-id="TVPWorld.pl@SD" ,TVP World
-https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,WELT
-https://s6.hopslan.com/n24X/index.m3u8
-#EXTINF:-1 group-title="SHOPPING" ,HSN
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
-#EXTINF:0 group-title="SHOPPING" ,QVC
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1 group-title="SPORTS" ,DAZN COMBAT
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="SPORTS" ,KTV SPORT
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" ,REAL MADRID TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="SPORTS" ,STRONGMAN
-https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" ,TENIS CHANNEL
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" ,FIFA+
-https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,KTV SPORT
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" ,MOTORVISION
-https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
-#EXTINF:-1 group-title="SPORTS" ,REAL MADRID TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="Strongman.us@UK" ,Strongman
-https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" ,TENIS CHANNEL
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:0 group-title="UNORGANIZED" ,L'EQUIPE
-https://jmp2.uk/stvp-FR200016Y5
-#EXTINF:0 group-title="UNORGANIZED" ,RMC ALERT SECOURS
-https://jmp2.uk/stvp-FR30000271
-#EXTINF:0 group-title="UNORGANIZED" ,SONY ONE ACTION HITS
-https://jmp2.uk/stvp-FR3000139Z
-#EXTINF:0 group-title="UNORGANIZED" ,RMC WOW
-https://jmp2.uk/stvp-FR300001M1
-#EXTINF:0 group-title="UNORGANIZED" ,SUPERTOON
-https://jmp2.uk/stvp-FRBD5100002NL
-#EXTINF:0 group-title="UNORGANIZED" ,TV5 MONDE VOYAGE
-https://jmp2.uk/stvp-FR1800004EP
-#EXTINF:0 group-title="UNORGANIZED" ,INITIATION AU VOYAGE
-https://jmp2.uk/stvp-FR3700004HZ
-#EXTINF:0 group-title="UNORGANIZED" ,ECHO DU MONDE
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99994449&ads.xumo_streamId=99994449&ads.channelId=99994449&ads.ad_tag_id=140647&ads.csid=lgchannels_fr_echosdumonde_ssai&ads.channelName=indigeniusechosdumonde_fr&ads.xumo_contentName=IndigeniusFrance&ads.xumo_contentId=4231&ads.xumo_providerName=IndigeniusFrance&ads.xumo_providerId=4231&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=fr&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
