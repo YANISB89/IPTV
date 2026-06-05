@@ -421,11 +421,25 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="FrequenceNovelas.fr@SD" ,Zylo Fréquence Novelas
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-id="IntoCrime.fr@SD" ,Zylo Into Crime (1080p)
-https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-id="ScreamIN.fr@SD" ,Zylo ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-id="IntoCrime.fr@SD" ,Zylo Into Crime (1080p)
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="GENERAL/INTERNATIONAL" ,ZDF
 https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="GENERAL/INTERNATIONAL" ,DAS ERSTE
 https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="KIDS" ,SUPER!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT" ,SKAI
+http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8ss
+#EXTINF:0 group-title="ENTERTAINMENT" ,STAR
+http://livestar.siliconweb.com/starvod/star4/star4.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT" ,RTL GOLD
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT" ,RTL LU
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:0 group-title="KIDS" ,TIJI
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="KIDS" ,TRT COCIK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
