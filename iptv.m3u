@@ -411,12 +411,12 @@ https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 https://s6.hopslan.com/n24X/index.m3u8
 #EXTINF:-1 group-title="NEWS" ,WELT
 https://s6.hopslan.com/n24X/index.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-id="CineWestern.fr@SD" ,Zylo Ciné Western
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:0 group-title="DOCUMENTARY" ,XPLORE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-id="CineNanar.fr@SD" ,Zylo Ciné Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-id="CineWestern.fr@SD" ,Zylo Ciné Western
-https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="EmotionL.fr@SD" ,Zylo Emotion' L
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="FrequenceNovelas.fr@SD" ,Zylo Fréquence Novelas
@@ -425,3 +425,7 @@ https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovela
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-id="ScreamIN.fr@SD" ,Zylo ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:0 group-title="GENERAL/INTERNATIONAL" ,ZDF
+https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="GENERAL/INTERNATIONAL" ,DAS ERSTE
+https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
